@@ -1,0 +1,71 @@
+
+		body{
+			background-color:black; 
+			color:white;
+		}
+		li{
+			background-color: white;
+			color: red;
+			display: inline;
+			list-style-type:none;
+			text-decoration-style: none;
+			margin-left: 5px;
+			margin-right: 5px;
+			border-radius: 10px;
+			font-family: padauk;
+			font-size: 30px;
+
+			
+		}
+		a:hover{
+			background-color: black;
+			color: white;
+		}
+		#melanin{
+			color: black;
+		}
+		#div{
+			background-color: grey;
+			color: black;
+		}
+		.trick{
+			overflow: scroll;
+			float: left;
+			margin-right: 20px;
+			margin-left: 20px;
+			width: 400px;
+			height: 550px;
+		}
+		#trick{
+			color: green;
+		}
+		.shoot{
+			overflow: scroll;
+			float: right;
+			margin-right: 20px;
+			margin-left: 20px;
+			width: 400px;
+			height: 550px;
+			
+		}
+		#inc{
+			color: red;
+		}
+		.edit{
+			overflow: scroll;
+
+			
+		}
+		#modes{
+			color: cyan;
+		}
+		#shoot{
+			color: red;
+		}
+		#footer{
+			background-color: black;
+			color: white;
+		}
+	   
+
+	
