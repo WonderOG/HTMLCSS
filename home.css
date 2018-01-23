@@ -6,7 +6,7 @@
 		li{
 			background-color: white;
 			color: red;
-			display: inline;
+			display: inline-block;
 			list-style-type:none;
 			text-decoration-style: none;
 			margin-left: 5px;
@@ -14,6 +14,8 @@
 			border-radius: 10px;
 			font-family: padauk;
 			font-size: 30px;
+			float: left;
+			height: 50px;
 
 			
 		}
@@ -63,6 +65,10 @@
 			color: red;
 		}
 		#footer{
+			background-color: black;
+			color: white;
+		}
+		.blog{
 			background-color: black;
 			color: white;
 		}
